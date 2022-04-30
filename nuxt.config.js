@@ -15,7 +15,7 @@ export default {
       { rel : 'icon', type: 'image/x-icon', href: '/favicon.ico' },
 
       
-      { rel :'preconnect', href: 'https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap'},
+      { rel :'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap'},
       { rel :'stylesheet', href: '/css/plugins.css' },
       { rel :'stylesheet', href: '/css/style.css' }
 
@@ -101,12 +101,11 @@ export default {
 
   googleFonts: {
     families: {
-      Roboto: true,
+      Barlow: true,
       'Josefin+Sans': true,
       Lato: [100, 300],
       Raleway: {
-        wght: [100, 400],
-        ital: [100]
+        wght: [400]
       },
     }
   },
