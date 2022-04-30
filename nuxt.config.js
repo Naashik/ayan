@@ -14,11 +14,12 @@ export default {
     link: [
       { rel : 'icon', type: 'image/x-icon', href: '/favicon.ico' },
 
-      { rel : 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap'},
+      
+      { rel :'preconnect', href: 'https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap'},
       { rel :'stylesheet', href: '/css/plugins.css' },
       { rel :'stylesheet', href: '/css/style.css' }
-    
-  
+
+   
     ],
     script: [
       {
@@ -94,8 +95,23 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: [
+  buildModules: ['@nuxtjs/google-fonts'
   ],
+  
+
+  googleFonts: {
+    families: {
+      Roboto: true,
+      'Josefin+Sans': true,
+      Lato: [100, 300],
+      Raleway: {
+        wght: [100, 400],
+        ital: [100]
+      },
+    }
+  },
+
+
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
