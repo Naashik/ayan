@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'The Cappa Luxury Hotel',
+    title: 'Ayana Sea',
     htmlAttrs: {
       lang: 'en'
     },
@@ -101,11 +101,9 @@ export default {
   googleFonts: {  
     families: {
       Barlow: true,
-      'Josefin+Sans': true,
-      Lato: [100, 400],
-      Raleway: {
-        wght: [400]
-      },
+      'Gilda Display': true,
+      'Barlow Condensed': true
+      
     }
   },
 

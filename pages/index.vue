@@ -57,40 +57,16 @@
     <header class="header">
         <div class="video-fullscreen-wrap">
             <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-            <div class="video-fullscreen-video" data-overlay-dark="6">
+            <div class="video-fullscreen-video" >
                 <video playsinline="" autoplay="" loop="" muted="">
                     <source src="img/AYANA SEA - Boutique Resort.mp4" type="video/mp4" autoplay="" loop="" muted="">
                     <source src="img/AYANA SEA - Boutique Resort.webm" type="video/webm" autoplay="" loop="" muted="">
                 </video>
             </div>
-            <div class="v-middle caption overlay">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-10 offset-md-1"> 
-                                <span>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                    <i class="star-rating"></i>
-                                </span>
-                                <h4>Luxury Boutique Resort</h4>
-                                <h1>Enjoy a Luxury Experience</h1>
-                                <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Rooms & Suites</span></a> </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+           
         </div>
-        <!-- slider reservation -->
-        <div class="reservation">
-            <a href="tel:8551004444">
-                <div class="icon d-flex justify-content-center align-items-center">
-                    <i class="flaticon-call"></i>
-                </div>
-                <div class="call"><span>+94382282886</span> <br>Reservation</div>
-            </a>
-        </div>
+    
+        
         <!-- arrow down -->
         <div class="arrow bounce text-center">
             <a href="#" data-scroll-nav="1" class=""> <i class="ti-arrow-down"></i> </a>
@@ -117,7 +93,7 @@
                     <div class="reservations">
                         <div class="icon"><span class="flaticon-call"></span></div>
                         <div class="text">
-                            <p>Reservation</p> <a href="tel:+94-382282886">+94 382282886</a>
+                            <p>Reservation</p> <a href="tel:+94771131287 , +94382282885 , +94382282886 , +94767025396">+94771131287 , +94382282885 , +94382282886 , +94767025396</a>
                         </div>
                     </div>
                 </div>
@@ -246,7 +222,7 @@
                     <div class="reservations mb-30">
                         <div class="icon"><span class="flaticon-call"></span></div>
                         <div class="text">
-                            <p class="color-2">For information</p> <a href="tel:+94-382282886">+94 382282886</a>
+                            <p class="color-2">For information</p> <a href="tel:+94771131287 , +94382282885 , +94382282886 , +94767025396">+94771131287 , +94382282885 , +94382282886 , +94767025396</a>
                         </div>
                     </div>
                 </div>
@@ -293,30 +269,8 @@
             </div>
         </div>
     </section>
-    <!-- Promo Video -->
-    <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="3" data-background="img/slider/2.jpg">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 offset-md-2 text-center">
-                       <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                        <div class="section-subtitle"><span>Ayana boutique resort</span></div>
-                        <div class="section-title"><span>Promotional Video</span></div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="text-center col-md-12">
-                        <a class="vid" href="https://youtu.be/vJjmlK3U5_8">
-                        <div class="vid-butn">
-                            <span class="icon">
-                                <i class="ti-control-play"></i>
-                            </span>
-                        </div>
-                    </a>
-                    </div>
-
-                </div>
-            </div>
-    </section>
+   
+   
     <!-- Facilties -->
     <section class="facilties section-padding">
         <div class="container">
@@ -432,7 +386,7 @@
                     <div class="content">
                         <div class="cont text-left">
                             <div class="info">
-                                <h6>Discover</h6>
+                                <h6>Experiences</h6>
                             </div>
                             <h4>   Bandaragama <br> Carting Circuit</h4>
                           
@@ -512,73 +466,13 @@
                         <div class="reservations mb-30">
                             <div class="icon color-1"><span class="flaticon-call"></span></div>
                             <div class="text">
-                                <p class="color-1">Reservation</p> <a class="color-1" href="tel:+94 382282886">+94 382282886</a>
+                                <p class="color-1">Reservation</p> <a class="color-1" href="tel:+94771131287 , +94382282885 , +94382282886 , +94767025396">+94771131287 , +94382282885 , +94382282886 , +94767025396</a>
                             </div>
                         </div>
                         <p><i class="ti-check"></i><small>Call us, it's toll-free.</small></p>
                     </div>
                     <!-- Booking From -->
-                    <div class="col-md-5 offset-md-2">
-                        <div class="booking-box">
-                            <div class="head-box">
-                                <h6>Rooms & Suites</h6>
-                                <h4>Hotel Booking Form</h4>
-                            </div>
-                            <div class="booking-inner clearfix">
-                                <form action="http://duruthemes.com/demo/html/cappa/demo2/rooms2.html" class="form1 clearfix">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="input1_wrapper">
-                                                <label>Check in</label>
-                                                <div class="input1_inner">
-                                                    <input type="text" class="form-control input datepicker" placeholder="Check in">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="input1_wrapper">
-                                                <label>Check out</label>
-                                                <div class="input1_inner">
-                                                    <input type="text" class="form-control input datepicker" placeholder="Check out">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="select1_wrapper">
-                                                <label>Adults</label>
-                                                <div class="select1_inner">
-                                                    <select class="select2 select" style="width: 100%">
-                                                        <option value="0">Adults</option>
-                                                        <option value="1">1</option>
-                                                        <option value="2">2</option>
-                                                        <option value="3">3</option>
-                                                        <option value="4">4</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="select1_wrapper">
-                                                <label>Children</label>
-                                                <div class="select1_inner">
-                                                    <select class="select2 select" style="width: 100%">
-                                                        <option value="0">Children</option>
-                                                        <option value="1">1</option>
-                                                        <option value="2">2</option>
-                                                        <option value="3">3</option>
-                                                        <option value="4">4</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <button type="submit" class="btn-form1-submit mt-15">Check Availability</button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
