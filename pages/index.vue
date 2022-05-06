@@ -13,7 +13,7 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper navbar-brand valign">
-                <a href="index.html">
+                <a href="#">
                     <div class="logo">
                         <img src="img/logo.png" class="logo-img" alt="">
                     </div>
@@ -33,8 +33,8 @@
                             <li class="dropdown-item active"><a href="index5.html">Home Layout 5</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-                    <li class="nav-item dropdown"><span class="nav-link ">Rooms & Suites<i class="ti-angle-down"/></span>
+                    <li class="nav-item"><a class="nav-link" href="about.html">Stay</a></li>
+                    <li class="nav-item dropdown"><span class="nav-link ">Facilities<i class="ti-angle-down"/></span>
                         <ul class="dropdown-menu last">
                             <li class="dropdown-item"><a href="rooms.html">Rooms 1</a></li>
                             <li class="dropdown-item"><a href="rooms2.html">Rooms 2</a></li>
@@ -42,17 +42,11 @@
                             <li class="dropdown-item"><a href="room-details.html">Room Details</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="restaurant.html"> Restaurant</a></li>
-                    <li class="nav-item"><a class="nav-link" href="spa-wellness.html">Spa</a></li>
+                    <li class="nav-item"><a class="nav-link" href="restaurant.html"> Dining</a></li>
+                    <li class="nav-item"><a class="nav-link" href="spa-wellness.html">Excursions</a></li>
                     <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item dropdown"> <span class="nav-link"> News<i class="ti-angle-down"></i></span>
-                        <ul class="dropdown-menu last">
-                            <li class="dropdown-item"><a href="news.html">News 1</a></li>
-                            <li class="dropdown-item"><a href="news2.html">News 2</a></li>
-                            <li class="dropdown-item"><a href="post.html">Single Post</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    
+                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
                 </ul>
                 
             </div>
@@ -65,8 +59,8 @@
             <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
             <div class="video-fullscreen-video" data-overlay-dark="6">
                 <video playsinline="" autoplay="" loop="" muted="">
-                    <source src="img/video.mp4" type="video/mp4" autoplay="" loop="" muted="">
-                    <source src="img/video.webm" type="video/webm" autoplay="" loop="" muted="">
+                    <source src="img/AYANA SEA - Boutique Resort.mp4" type="video/mp4" autoplay="" loop="" muted="">
+                    <source src="img/AYANA SEA - Boutique Resort.webm" type="video/webm" autoplay="" loop="" muted="">
                 </video>
             </div>
             <div class="v-middle caption overlay">
@@ -80,7 +74,7 @@
                                     <i class="star-rating"></i>
                                     <i class="star-rating"></i>
                                 </span>
-                                <h4>Luxury Hotel & Best Resort</h4>
+                                <h4>Luxury Boutique Resort</h4>
                                 <h1>Enjoy a Luxury Experience</h1>
                                 <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Rooms & Suites</span></a> </div>
                             </div>
@@ -94,7 +88,7 @@
                 <div class="icon d-flex justify-content-center align-items-center">
                     <i class="flaticon-call"></i>
                 </div>
-                <div class="call"><span>855 100 4444</span> <br>Reservation</div>
+                <div class="call"><span>+94382282886</span> <br>Reservation</div>
             </a>
         </div>
         <!-- arrow down -->
@@ -115,23 +109,23 @@
                         <i class="star-rating"></i>
                         <i class="star-rating"></i>
                     </span>
-                    <div class="section-subtitle">The Cappa Luxury Hotel</div>
-                    <div class="section-title">Enjoy a Luxury Experience</div>
-                    <p>Welcome to the best five-star deluxe hotel in New York. Hotel elementum sesue the aucan vestibulum aliquam justo in sapien rutrum volutpat. Donec in quis the pellentesque velit. Donec id velit ac arcu posuere blane.</p>
-                    <p>Hotel ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</p>
+        
+                    <div class="section-title">Ayana Sea</div>
+                    <p>Ayana Sea, is an exclusive boutique resort overlooking the Indian ocean and located in the charming fishing village of Wadduwa in the southwest coast of Sri Lanka, which is 33 kilometers from the city of Colombo. Ayana Sea brings together the best traits of a villa, providing privacy and personalized services, and the best traits of a hotel, providing facilities and space to deliver an experience like no other.</p>
+                    <p>Secluded in 2 acres of carefully manicured lawns with coconut trees, expansive pools and koi fishponds, the Ocean Secrets Restaurant and the SALT bar with spacious and well equipped private units of two storied villas with en suite pools and terraces for a tranquil, pampered and an unforgettable experience.</p>
                     <!-- call -->
                     <div class="reservations">
                         <div class="icon"><span class="flaticon-call"></span></div>
                         <div class="text">
-                            <p>Reservation</p> <a href="tel:855-100-4444">855 100 4444</a>
+                            <p>Reservation</p> <a href="tel:+94-382282886">+94 382282886</a>
                         </div>
                     </div>
                 </div>
                 <div class="col col-md-3 animate-box" data-animate-effect="fadeInUp">
-                    <img src="img/rooms/8.jpg" alt="" class="mt-90 mb-30">
+                    <img src="img/overview-2.jfif" alt="" class="mt-90 mb-30">
                 </div>
                 <div class="col col-md-3 animate-box" data-animate-effect="fadeInUp">
-                    <img src="img/rooms/2.jpg" alt="">
+                    <img src="img/overview-3.jfif" alt="">
                 </div>
             </div>
         </div>
@@ -141,63 +135,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="section-subtitle">The Cappa Luxury Hotel</div>
-                    <div class="section-title">Rooms & Suites</div>
+                     <div class="section-subtitle"><span>Personalized indulgence.</span></div>
+                    <div class="section-title">Ayana Facilities</div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/1.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/salt.jpg" alt=""> </div> 
                         <div class="con">
-                            <h6><a href="room-details.html">150$ / Night</a></h6>
-                            <h5><a href="room-details.html">Junior Suite</a> </h5>
-                            <div class="line"></div>
-                            <div class="row facilities">
-                                <div class="col col-md-7">
-                                    <ul>
-                                        <li><i class="flaticon-bed"></i></li>
-                                        <li><i class="flaticon-bath"></i></li>
-                                        <li><i class="flaticon-breakfast"></i></li>
-                                        <li><i class="flaticon-towel"></i></li>
-                                    </ul>
-                                </div>
-                                <div class="col col-md-5 text-right">
-                                    <div class="permalink"><a href="room-details.html">Details <i class="ti-arrow-right"></i></a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/2.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
-                        <div class="con">
-                            <h6><a href="room-details.html">200$ / Night</a></h6>
-                            <h5><a href="room-details.html">Family Room</a></h5>
-                            <div class="line"></div>
-                            <div class="row facilities">
-                                <div class="col col-md-7">
-                                    <ul>
-                                        <li><i class="flaticon-bed"></i></li>
-                                        <li><i class="flaticon-bath"></i></li>
-                                        <li><i class="flaticon-breakfast"></i></li>
-                                        <li><i class="flaticon-towel"></i></li>
-                                    </ul>
-                                </div>
-                                <div class="col col-md-5 text-right">
-                                    <div class="permalink"><a href="room-details.html">Details <i class="ti-arrow-right"></i></a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/3.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
-                        <div class="con">
-                            <h6><a href="room-details.html">250$ / Night</a></h6>
-                            <h5><a href="room-details.html">Double Room</a></h5>
+                            <h5><a href="room-details.html">Salt Bar</a> </h5>
                             <div class="line"></div>
                             <div class="row facilities">
                                 <div class="col col-md-7">
@@ -217,10 +164,10 @@
                 </div>
                 <div class="col-md-6">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/4.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/restaurant.jpg" alt=""> </div> 
                         <div class="con">
-                            <h6><a href="room-details.html">300$ / Night</a></h6>
-                            <h5><a href="room-details.html">Deluxe Room</a></h5>
+                            
+                            <h5><a href="room-details.html">Ocean Secrets Restaurant</a></h5>
                             <div class="line"></div>
                             <div class="row facilities">
                                 <div class="col col-md-7">
@@ -240,10 +187,10 @@
                 </div>
                 <div class="col-md-6">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/7.jpg" alt=""> </div> <span class="category"><a href="rooms2.html">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/spa.jpg" alt=""> </div>
                         <div class="con">
-                            <h6><a href="room-details.html">150$ / Night</a></h6>
-                            <h5><a href="room-details.html">Superior Room</a></h5>
+                         
+                            <h5><a href="room-details.html">Ayurvedic Spa</a></h5>
                             <div class="line"></div>
                             <div class="row facilities">
                                 <div class="col col-md-7">
@@ -261,6 +208,30 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="item">
+                        <div class="position-re o-hidden"> <img src="img/pool.jpg" alt=""> </div> 
+                        <div class="con">
+
+                            <h5><a href="room-details.html">Swimming Pool</a></h5>
+                            <div class="line"></div>
+                            <div class="row facilities">
+                                <div class="col col-md-7">
+                                    <ul>
+                                        <li><i class="flaticon-bed"></i></li>
+                                        <li><i class="flaticon-bath"></i></li>
+                                        <li><i class="flaticon-breakfast"></i></li>
+                                        <li><i class="flaticon-towel"></i></li>
+                                    </ul>
+                                </div>
+                                <div class="col col-md-5 text-right">
+                                    <div class="permalink"><a href="room-details.html">Details <i class="ti-arrow-right"></i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </section>
@@ -269,65 +240,52 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="section-subtitle"><span>Best Prices</span></div>
-                    <div class="section-title"><span>Extra Services</span></div>
-                    <p class="color-2">The best prices for your relaxing vacation. The utanislen quam nestibulum ac quame odion elementum sceisue the aucan.</p>
-                    <p class="color-2">Orci varius natoque penatibus et magnis disney parturient monte nascete ridiculus mus nellen etesque habitant morbine.</p>
+                    <div class="section-subtitle"><span>Privacy & Space</span></div>
+                    <div class="section-title"><span>Ayana Accomodation</span></div>
+                  
                     <div class="reservations mb-30">
                         <div class="icon"><span class="flaticon-call"></span></div>
                         <div class="text">
-                            <p class="color-2">For information</p> <a href="tel:855-100-4444">855 100 4444</a>
+                            <p class="color-2">For information</p> <a href="tel:+94-382282886">+94 382282886</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-8">
                     <div class="owl-carousel owl-theme">
                         <div class="pricing-card">
-                            <img src="img/pricing/1.jpg" alt="">
+                            <img src="img/premier.jpg" alt="">
                             <div class="desc">
-                                <div class="name">Room cleaning</div>
-                                <div class="amount">$50<span>/ month</span></div>
-                                <ul class="list-unstyled list">
-                                    <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                    <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                    <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                                </ul>
+                                <div class="name">Premier<br>Ocean View Villa</div>
+                                <p class="new">[ 1 TWIN BED & 1 KING BED | 2 TWIN BEDS ] [ 32 M2 LIVING AREA ]</p>
+                        
+                                <p>Premier Ocean Villa comes with a spacious living area of 32 m², plunge pool ( jacuzzi ) and spa bath. Its comes with two configuration offerings. One with 1 twin bed and 1 king size bed and the other with 2 twin beds.</p>
                             </div>
                         </div>
                         <div class="pricing-card">
-                            <img src="img/pricing/2.jpg" alt="">
+                            <img src="img/pool villa.jpg" alt="">
                             <div class="desc">
-                                <div class="name">Drinks included</div>
-                                <div class="amount">$30<span>/ daily</span></div>
-                                <ul class="list-unstyled list">
-                                    <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                    <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                    <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                                </ul>
+                                <div class="name">Premier<br>Pool Villa</div>
+                               <p class="new">[ 1 TWIN BED & 1 KING BED | 2 TWIN BEDS ] [ 43 M2 LIVING AREA ]</p>
+                                
+                                 <p>Premier Pool Villa comes with a spacious living area of 43 m² . It features a plunge pool ( jacuzzi ) and spa bath. Its comes with two configuration offerings. One with 1 twin bed and 1 king size bed and the other with 2 twin beds.</p>
                             </div>
                         </div>
                         <div class="pricing-card">
-                            <img src="img/pricing/3.jpg" alt="">
+                            <img src="img/family.jpg" alt="">
                             <div class="desc">
-                                <div class="name">Room Breakfast</div>
-                                <div class="amount">$30<span>/ daily</span></div>
-                                <ul class="list-unstyled list">
-                                    <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                    <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                    <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                                </ul>
+                                <div class="name">Premier<br>Family Villa</div>
+                                <p class="new">[ 1 TWIN BED + 1 QUEEN BED ] [ 43 M2 LIVING AREA ]</p>
+                                
+                                 <p>Premier Family Villa comes with a spacious living area of 43 m² . It features 1 king size bed and 1 queen size bed in the upper floor ( attic ), a balcony, and spa bath.<br><br></p>
                             </div>
                         </div>
                         <div class="pricing-card">
-                            <img src="img/pricing/4.jpg" alt="">
+                            <img src="img/delux.jpg" alt="">
                             <div class="desc">
-                                <div class="name">Safe & Secure</div>
-                                <div class="amount">$15<span>/ daily</span></div>
-                                <ul class="list-unstyled list">
-                                    <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                    <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                    <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                                </ul>
+                                <div class="name">Deluxe<br>Villa</div>
+                              <p class="new">[ 3 CONFIGURATIONS ] [ 46 M2 LIVING AREA ]</p>
+                                
+                                 <p>Deluxe Villa comes with a spacious living area of 46 m² . It features a spa bath. Its comes with three configuration offerings. One with 1 twin bed and 1 king size bed + spa bath, the second with 2 twin beds + spa bath and the third with 2 twin beds.</p>
                             </div>
                         </div>
                     </div>
@@ -341,13 +299,13 @@
                 <div class="row">
                     <div class="col-md-8 offset-md-2 text-center">
                        <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                        <div class="section-subtitle"><span>The Cappa Luxury Hotel</span></div>
+                        <div class="section-subtitle"><span>Ayana boutique resort</span></div>
                         <div class="section-title"><span>Promotional Video</span></div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="text-center col-md-12">
-                        <a class="vid" href="https://youtu.be/7BGNAGahig8">
+                        <a class="vid" href="https://youtu.be/vJjmlK3U5_8">
                         <div class="vid-butn">
                             <span class="icon">
                                 <i class="ti-control-play"></i>
@@ -364,59 +322,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="section-subtitle">Our Services</div>
-                    <div class="section-title">Hotel Facilities</div>
+                    <div class="section-subtitle">Excellence</div>
+                    <div class="section-title">Awards &amp; Recognition</div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                        <span class="flaticon-world"></span>
-                        <h5>Pick Up & Drop</h5>
-                        <p>We’ll pick up from airport while you comfy on your ride, mus nellentesque habitant.</p>
-                        <div class="facility-shape"> <span class="flaticon-world"></span> </div>
+                    <div class="logosize" >
+                                  <img src="img/award/awards.png" alt="">
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                        <span class="flaticon-car"></span>
-                        <h5>Parking Space</h5>
-                        <p>Fusce tincidunt nis ace park norttito sit amet space, mus nellentesque habitant.</p>
-                        <div class="facility-shape"> <span class="flaticon-car"></span> </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                        <span class="flaticon-bed"></span>
-                        <h5>Room Service</h5>
-                        <p>Room tincidunt nis ace park norttito sit amet space, mus nellentesque habitant.</p>
-                        <div class="facility-shape"> <span class="flaticon-bed"></span> </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                        <span class="flaticon-swimming"></span>
-                        <h5>Swimming Pool</h5>
-                        <p>Swimming pool tincidunt nise ace park norttito sit space, mus nellentesque habitant.</p>
-                        <div class="facility-shape"> <span class="flaticon-swimming"></span> </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                        <span class="flaticon-wifi"></span>
-                        <h5>Fibre Internet</h5>
-                        <p>Wifi tincidunt nis ace park norttito sit amet space, mus nellentesque habitant.</p>
-                        <div class="facility-shape"> <span class="flaticon-wifi"></span> </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                        <span class="flaticon-breakfast"></span>
-                        <h5>Breakfast</h5>
-                        <p>Eat tincidunt nisa ace park norttito sit amet space, mus nellentesque habitant</p>
-                        <div class="facility-shape"> <span class="flaticon-breakfast"></span> </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>
@@ -428,38 +344,70 @@
                     <div class="col-md-8 offset-md-2">
                         <div class="testimonials-box">
                             <div class="head-box">
-                                <h6>Testimonials</h6>
-                                <h4>What Client's Say?</h4>
+                                
+                                <h4>Feedback from Our Clients</h4>
                                 <div class="line"></div>
                             </div>
                             <div class="owl-carousel owl-theme">
                                 <div class="item">
                                     <span class="quote"><img src="img/quot.png" alt=""></span>
-                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
+                                    <p>"The rooms are new, big and modern.The property is just gorgeous, the restaurant has great food.The pool and garden are so beautiful.It is quiet and intimate.Great for families with kids of all ages but also great for couples.It’s a place to relax."</p>
                                     <div class="info">
-                                        <div class="author-img"> <img src="img/team/4.jpg" alt=""> </div>
+                                        <div class="author-img"> <img src="img/uae.png" alt=""> </div>
                                         <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                                            <h6>Emily Brown</h6> <span>Guest review</span>
+                                            <h6>Ramona  | UAE</h6> <span>Guest review</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="item">
                                     <span class="quote"><img src="img/quot.png" alt=""></span>
-                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
+                                    <p>We had a fantastic time. The staff was amazingly friendly and the food great. Lovely sunset views! Would definitely recommand the hotel!"</p>
                                     <div class="info">
-                                        <div class="author-img"> <img src="img/team/1.jpg" alt=""> </div>
+                                        <div class="author-img"> <img src="img/ro.png" alt=""> </div>
                                         <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                                            <h6>Nolan White</h6> <span>Guest review</span>
+                                            <h6>Laura  | Romania</h6> <span>Guest review</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="item">
                                     <span class="quote"><img src="img/quot.png" alt=""></span>
-                                    <p>Hotel dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at finibus viverra neca the sene on satien the miss drana inc fermen norttito sit space, mus nellentesque habitan.</p>
+                                    <p>"I would and maybe will come back to Ayana Sea at all times. Is is a very new and young resort with excellent staff and brilliant food!!! Even though it is not cheap I think it is worth the money! The breakfast is massive and when we had dinner there we were blown away. Even the seemingly simplest dishes were absolute delicious."</p>
                                     <div class="info">
-                                        <div class="author-img"> <img src="img/team/5.jpg" alt=""> </div>
+                                        <div class="author-img"> <img src="img/sg.png" alt=""> </div>
                                         <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
-                                            <h6>Olivia Martin</h6> <span>Guest review</span>
+                                            <h6>Alexander  | Singapore</h6> <span>Guest review</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <span class="quote"><img src="img/quot.png" alt=""></span>
+                                    <p>"The hotel was beautiful and the staff were so friendly, they couldn’t do enough for you. They loved the children and made a real fuss of them. We look forward to returning again soon."</p>
+                                    <div class="info">
+                                        <div class="author-img"> <img src="img/uk.png" alt=""> </div>
+                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
+                                            <h6>Amy | UK</h6> <span>Guest review</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <span class="quote"><img src="img/quot.png" alt=""></span>
+                                    <p>"The food was AMAZING Completely quiet if you need a place to relax Staff very nice and helpful Owner came and asked us all how was our stay, very nice touch"</p>
+                                    <div class="info">
+                                        <div class="author-img"> <img src="img/qa.png" alt=""> </div>
+                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
+                                            <h6>Fatima  | Qatar</h6> <span>Guest review</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <span class="quote"><img src="img/quot.png" alt=""></span>
+                                    <p>"Low key paradise!
+
+                                                Beautiful property, amazing food, friendly staff, huge rooms. It was easy to relax here."</p>
+                                    <div class="info">
+                                        <div class="author-img"> <img src="img/us.png" alt=""> </div>
+                                        <div class="cont"> <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
+                                            <h6>Rebekah  | US</h6> <span>Guest review</span>
                                         </div>
                                     </div>
                                 </div>
@@ -476,18 +424,19 @@
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="restaurant.html"><img src="img/restaurant/1.jpg" alt=""></a>
+                        <a href="restaurant.html"><img src="img/f1.jpg" alt=""></a>
                     </div>
                 </div>
+ 
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
                     <div class="content">
                         <div class="cont text-left">
                             <div class="info">
                                 <h6>Discover</h6>
                             </div>
-                            <h4>The Restaurant</h4>
-                            <p>Restaurant inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
-                            <div class="butn-dark"> <a href="restaurant.html"><span>Learn More</span></a> </div>
+                            <h4>   Bandaragama <br> Carting Circuit</h4>
+                          
+                            
                         </div>
                     </div>
                 </div>
@@ -499,33 +448,32 @@
                             <div class="info">
                                 <h6>Experiences</h6>
                             </div>
-                            <h4>Spa Center</h4>
-                            <p>Spa center inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <h4>Hikkaduwa<br> Diving &amp; Snorkeling</h4>
+                           
+
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="img/spa/3.jpg" alt=""></a>
+                        <a href="spa-wellness.html"><img src="img/swim.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="spa-wellness.html"><img src="img/spa/2.jpg" alt=""></a>
+                        <a href="spa-wellness.html"><img src="img/blue wale.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
                     <div class="content">
                         <div class="cont text-left">
                             <div class="info">
-                                <h6>Modern</h6>
+                                <h6>Experiences</h6>
                             </div>
-                            <h4>Fitness Center</h4>
-                            <p>Restaurant inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <h4>  Mirissa <br> Dolphin Watching</h4>
+                           
                         </div>
                     </div>
                 </div>
@@ -537,113 +485,21 @@
                             <div class="info">
                                 <h6>Experiences</h6>
                             </div>
-                            <h4>The Health Club & Pool</h4>
-                            <p>The health club & pool at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <h4> Bentota <br> Water Sports</h4>
+                        
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="img/spa/1.jpg" alt=""></a>
+                        <a href="spa-wellness.html"><img src="img/sky.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- News -->
-    <section class="news section-padding bg-black">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="section-subtitle"><span>Hotel Blog</span></div>
-                    <div class="section-title"><span>Our News</span></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/1.jpg" alt="">
-                                <div class="date">
-                                    <a href="post.html"> <span>Dec</span> <i>02</i> </a>
-                                </div>
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Restaurant</a>
-                                </span>
-                                <h5><a href="post.html">Historic restaurant renovated</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/2.jpg" alt="">
-                                <div class="date">
-                                    <a href="post.html"> <span>Dec</span> <i>04</i> </a>
-                                </div>
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Spa</a>
-                                </span>
-                                <h5><a href="post.html">Benefits of Spa Treatments</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/3.jpg" alt="">
-                                <div class="date">
-                                    <a href="post.html"> <span>Dec</span> <i>06</i> </a>
-                                </div>
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Bathrooms</a>
-                                </span>
-                                <h5><a href="post.html">Hotel Bathroom Collections</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/4.jpg" alt="">
-                                <div class="date">
-                                    <a href="post.html"> <span>Dec</span> <i>08</i> </a>
-                                </div>
-                            </div>
-                            <div class="con"> 
-                                <span class="category">
-                                    <a href="news.html">Health</a>
-                                </span>
-                                <h5><a href="post.html">Weight Loss with Fitness Health Club</a></h5>
-                            </div>
-                        </div>
-                        
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/6.jpg" alt="">
-                                <div class="date">
-                                    <a href="post.html"> <span>Dec</span> <i>08</i> </a>
-                                </div>
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Design</a>
-                                </span>
-                                <h5><a href="post.html">Retro Lighting Design in The Hotels</a></h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="img/news/5.jpg" alt="">
-                                <div class="date">
-                                    <a href="post.html"> <span>Dec</span> <i>08</i> </a>
-                                </div>
-                            </div>
-                            <div class="con"> <span class="category">
-                                    <a href="news.html">Health</a>
-                                </span>
-                                <h5><a href="post.html">Benefits of Swimming for Your Health</a></h5>
-                            </div>
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
+ 
     <!-- Reservation & Booking Form -->
     <section class="testimonials">
         <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/slider/2.jpg" data-overlay-dark="2">
@@ -656,7 +512,7 @@
                         <div class="reservations mb-30">
                             <div class="icon color-1"><span class="flaticon-call"></span></div>
                             <div class="text">
-                                <p class="color-1">Reservation</p> <a class="color-1" href="tel:855-100-4444">855 100 4444</a>
+                                <p class="color-1">Reservation</p> <a class="color-1" href="tel:+94 382282886">+94 382282886</a>
                             </div>
                         </div>
                         <p><i class="ti-check"></i><small>Call us, it's toll-free.</small></p>
@@ -787,10 +643,10 @@
                     <div class="col-md-4">
                         <div class="footer-column footer-contact">
                             <h3 class="footer-title">Contact</h3>
-                            <p class="footer-contact-text">1616 Broadway NY, New York 10001<br>United States of America</p>
+                            <p class="footer-contact-text">150/12, Samanthara Road, Molligoda,<br>Wadduwa, Sri Lanka</p>
                             <div class="footer-contact-info">
-                                <p class="footer-contact-phone"><span class="flaticon-call"></span> 855 100 4444</p>
-                                <p class="footer-contact-mail">info@luxuryhotel.com</p>
+                                <p class="footer-contact-phone"><span class="flaticon-call"></span>+94771131287 | +94382282885 | +94382282886 | +94767025396 |</p>
+                                <p class="footer-contact-mail">reservation1@ayanavillasandresorts.com</p>
                             </div>
                             <div class="footer-about-social-list">
                                 <a href="#"><i class="ti-instagram"></i></a>
@@ -822,7 +678,19 @@
  
  
 </template>
-
+<style scoped>
+.new{
+    font-size: 63%;
+}
+.logosize{
+    width: 300%;
+    height: 200%
+}
+.logo-img{
+    width:65% ;
+    height:65% ;
+}
+</style>
 
 
 
