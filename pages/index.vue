@@ -274,16 +274,70 @@
                     <div class="section-title">Awards &amp; Recognition</div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="logosize" >
-                                  <img src="img/award/awards.png" alt="">
-                    </div>
-                </div>
-                
-            </div>
+        <div class="row">
+               
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/1.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/2.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/3.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/4.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/5.png" alt="">
+                                </div>
+                 </div>      
+                            </div>
+                             <div class="row">
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/6.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/7.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/8.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/9.png" alt="">
+                                </div>
+                            </div>
+                            <div class="logo-box border logosize">
+                                <div style="background-color: #fff; padding: 10px 40px;" class="logo-box-inner style-box">
+                                    <img src="img/award/10.png" alt="">
+                                </div>
+                            </div>
+</div> 
+                     
+            
+
         </div>
     </section>
+
+
+             
+
     <!-- Testiominals -->
     <section class="testimonials">
         <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/slider/2.jpg" data-overlay-dark="3">
@@ -521,8 +575,8 @@
     font-size: 63%;
 }
 .logosize{
-    width: 300%;
-    height: 200%
+    width: 20%;
+    height: 10%
 }
 .logo-img{
     width:65% ;
