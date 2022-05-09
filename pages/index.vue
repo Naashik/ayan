@@ -557,7 +557,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="footer-bottom-inner">
-                            <p class="footer-bottom-copy-right">© Copyright 2022 by <a href="#">DuruThemes.com</a></p>
+                            <p class="footer-bottom-copy-right">© 2022 Ayana Villas & Resorts. Engineered by <a href="#">PRAGICTS</a></p>
                         </div>
                     </div>
                 </div>
